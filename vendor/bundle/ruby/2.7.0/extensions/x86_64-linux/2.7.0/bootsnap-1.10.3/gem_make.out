@@ -1,0 +1,15 @@
+current directory: /home/ubuntu/environment/toy_app/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.10.3/ext/bootsnap
+/home/ubuntu/.rvm/rubies/ruby-2.7.6/bin/ruby -I /home/ubuntu/.rvm/rubies/ruby-2.7.6/lib/ruby/2.7.0 -r ./siteconf20221010-11503-2ip5in.rb extconf.rb
+creating Makefile
+
+current directory: /home/ubuntu/environment/toy_app/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.10.3/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /home/ubuntu/environment/toy_app/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.10.3/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.so
+
+current directory: /home/ubuntu/environment/toy_app/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.10.3/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -m 0755 bootsnap.so ./.gem.20221010-11503-1q2kf99/bootsnap
